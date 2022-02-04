@@ -1,16 +1,30 @@
-# todo_app
+# To-Do App
+ To-Do application using Provider and Shared Preferences.
 
-A new Flutter project.
 
-## Getting Started
+## Run Locally
 
-This project is a starting point for a Flutter application.
+Install dependencies
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+  flutter pub get
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Run App
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+  flutter run
+```
+
+
+## Soon ~~
+
+- [ ] Category Item Icon
+- [ ] Week To-Do 
+- [ ] Month To-Do
+
+
+## Screenshots 
+ ![1](https://user-images.githubusercontent.com/72046458/152617781-a4d607ca-e396-4f02-9e77-215877e42d12.jpeg)
+ ![2](https://user-images.githubusercontent.com/72046458/152617786-f0f5532c-600d-4d74-84c7-fc1d384db3d8.jpeg)
+
